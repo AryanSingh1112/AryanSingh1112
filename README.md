@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/AryanSingh1112">GitHub</a> •
-  <a href="https://www.linkedin.com/in/aryan012/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/aryan-singh-b0557328b">LinkedIn</a>
 </p>
 
 ---
@@ -13,8 +13,8 @@
 ## 👨‍💻 About Me
 - Full Stack Developer focused on building **scalable and user-centric applications**
 - Strong foundation in **Data Structures & Algorithms**
-- Currently exploring **Backend Architecture & System Design**
-- Interested in solving **real-world problems through technology**
+- Currently exploring **Backend Development & System Design**
+- Passionate about solving **real-world problems through technology**
 
 ---
 
@@ -23,52 +23,44 @@
 ### 🔹 SkillSwap
 A peer-to-peer platform enabling users to **learn and teach skills through intelligent matching**  
 **Tech:** React, Node.js, MongoDB  
-- Designed a clean and responsive UI for better user engagement  
+- Built a clean and responsive UI for seamless interaction  
 - Implemented matching logic to connect users based on interests  
-- Structured backend for scalability and maintainability  
+- Designed backend structure for scalability  
 
-🔗 https://github.com/AryanSingh1112
+🔗 https://github.com/AryanSingh1112/SkillSwap
 
 ---
 
 ### 🔹 DollarSaver
 A workflow analytics platform to identify **cost inefficiencies in processes**  
 **Tech:** TypeScript, Node.js  
-- Built analytics logic to track and optimize workflow costs  
-- Focused on performance and structured data handling  
+- Developed analytics logic for workflow cost optimization  
+- Focused on efficient data handling and performance  
 
-🔗 https://github.com/AryanSingh1112
+🔗 https://github.com/AryanSingh1112/DollarSaver--Workflow-Cost-Impact-Analyzer
 
 ---
 
 ## 🛠 Tech Stack
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/Convex-EE342F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite" />
+  <img src="https://img.shields.io/badge/Clerk-3B49DF?style=for-the-badge" />
 </p>
 
 ---
 
-## 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AryanSingh1112&show_icons=true&theme=default" />
-  <img src="https://streak-stats.demolab.com/?user=AryanSingh1112" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AryanSingh1112" />
-</p>
-
----
-
-## 📫 Connect With Me
+## 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/aryan-singh-b0557328b  
-- Email: your-email
+- Email: singharyan120505@gmail.com
 
 ---
 
 <p align="center">
-  <i>Focused on building, learning, and continuously improving.</i>
+  <i>Building practical solutions. Learning continuously.</i>
 </p>
